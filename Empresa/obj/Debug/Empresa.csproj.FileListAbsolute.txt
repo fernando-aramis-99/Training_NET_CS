@@ -1,0 +1,6 @@
+C:\Users\014265631\Documents\PROGRAMMING\C#\Trilha C#\S_Net\Empresa\bin\Debug\Empresa.exe.config
+C:\Users\014265631\Documents\PROGRAMMING\C#\Trilha C#\S_Net\Empresa\bin\Debug\Empresa.exe
+C:\Users\014265631\Documents\PROGRAMMING\C#\Trilha C#\S_Net\Empresa\bin\Debug\Empresa.pdb
+C:\Users\014265631\Documents\PROGRAMMING\C#\Trilha C#\S_Net\Empresa\obj\Debug\Empresa.csproj.CoreCompileInputs.cache
+C:\Users\014265631\Documents\PROGRAMMING\C#\Trilha C#\S_Net\Empresa\obj\Debug\Empresa.exe
+C:\Users\014265631\Documents\PROGRAMMING\C#\Trilha C#\S_Net\Empresa\obj\Debug\Empresa.pdb

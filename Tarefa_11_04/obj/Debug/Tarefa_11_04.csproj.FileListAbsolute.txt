@@ -1,0 +1,7 @@
+C:\Users\014265631\Documents\PROGRAMMING\C#\Trilha C#\S_Net\Tarefa_11_04\bin\Debug\Tarefa_11_04.exe.config
+C:\Users\014265631\Documents\PROGRAMMING\C#\Trilha C#\S_Net\Tarefa_11_04\bin\Debug\Tarefa_11_04.exe
+C:\Users\014265631\Documents\PROGRAMMING\C#\Trilha C#\S_Net\Tarefa_11_04\bin\Debug\Tarefa_11_04.pdb
+C:\Users\014265631\Documents\PROGRAMMING\C#\Trilha C#\S_Net\Tarefa_11_04\obj\Debug\Tarefa_11_04.csproj.AssemblyReference.cache
+C:\Users\014265631\Documents\PROGRAMMING\C#\Trilha C#\S_Net\Tarefa_11_04\obj\Debug\Tarefa_11_04.csproj.CoreCompileInputs.cache
+C:\Users\014265631\Documents\PROGRAMMING\C#\Trilha C#\S_Net\Tarefa_11_04\obj\Debug\Tarefa_11_04.exe
+C:\Users\014265631\Documents\PROGRAMMING\C#\Trilha C#\S_Net\Tarefa_11_04\obj\Debug\Tarefa_11_04.pdb

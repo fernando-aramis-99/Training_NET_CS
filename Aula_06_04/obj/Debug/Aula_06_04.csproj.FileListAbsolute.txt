@@ -1,0 +1,6 @@
+C:\Users\014265631\Documents\PROGRAMMING\C#\Trilha C#\S_Net\Aula_06_04\bin\Debug\Aula_06_04.exe.config
+C:\Users\014265631\Documents\PROGRAMMING\C#\Trilha C#\S_Net\Aula_06_04\bin\Debug\Aula_06_04.exe
+C:\Users\014265631\Documents\PROGRAMMING\C#\Trilha C#\S_Net\Aula_06_04\bin\Debug\Aula_06_04.pdb
+C:\Users\014265631\Documents\PROGRAMMING\C#\Trilha C#\S_Net\Aula_06_04\obj\Debug\Aula_06_04.csproj.CoreCompileInputs.cache
+C:\Users\014265631\Documents\PROGRAMMING\C#\Trilha C#\S_Net\Aula_06_04\obj\Debug\Aula_06_04.exe
+C:\Users\014265631\Documents\PROGRAMMING\C#\Trilha C#\S_Net\Aula_06_04\obj\Debug\Aula_06_04.pdb

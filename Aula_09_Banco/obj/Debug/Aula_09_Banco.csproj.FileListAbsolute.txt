@@ -1,0 +1,6 @@
+C:\Users\014265631\Documents\PROGRAMMING\C#\Trilha C#\S_Net\Aula_09_Banco\bin\Debug\Aula_09_Banco.exe.config
+C:\Users\014265631\Documents\PROGRAMMING\C#\Trilha C#\S_Net\Aula_09_Banco\bin\Debug\Aula_09_Banco.exe
+C:\Users\014265631\Documents\PROGRAMMING\C#\Trilha C#\S_Net\Aula_09_Banco\bin\Debug\Aula_09_Banco.pdb
+C:\Users\014265631\Documents\PROGRAMMING\C#\Trilha C#\S_Net\Aula_09_Banco\obj\Debug\Aula_09_Banco.csproj.CoreCompileInputs.cache
+C:\Users\014265631\Documents\PROGRAMMING\C#\Trilha C#\S_Net\Aula_09_Banco\obj\Debug\Aula_09_Banco.exe
+C:\Users\014265631\Documents\PROGRAMMING\C#\Trilha C#\S_Net\Aula_09_Banco\obj\Debug\Aula_09_Banco.pdb

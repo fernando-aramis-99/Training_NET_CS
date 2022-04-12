@@ -1,0 +1,7 @@
+C:\Users\014265631\Documents\PROGRAMMING\C#\Trilha C#\S_Net\CS\bin\Debug\CS.exe.config
+C:\Users\014265631\Documents\PROGRAMMING\C#\Trilha C#\S_Net\CS\bin\Debug\CS.exe
+C:\Users\014265631\Documents\PROGRAMMING\C#\Trilha C#\S_Net\CS\bin\Debug\CS.pdb
+C:\Users\014265631\Documents\PROGRAMMING\C#\Trilha C#\S_Net\CS\obj\Debug\CS.csproj.AssemblyReference.cache
+C:\Users\014265631\Documents\PROGRAMMING\C#\Trilha C#\S_Net\CS\obj\Debug\CS.csproj.CoreCompileInputs.cache
+C:\Users\014265631\Documents\PROGRAMMING\C#\Trilha C#\S_Net\CS\obj\Debug\CS.exe
+C:\Users\014265631\Documents\PROGRAMMING\C#\Trilha C#\S_Net\CS\obj\Debug\CS.pdb
